@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quaefueritarist00gratgoog_0002.png"; bbox 0 0 3467 5492; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 617 2840 1081 2904">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 617 2840 1081 2904">
+     <span class='ocr_line' id='line_1_1' title="bbox 617 2840 1081 2904; baseline -0.004 0"><span class='ocrx_word' id='word_1_1' title='bbox 617 2840 1081 2904; x_wconf 76' lang='lat' dir='ltr'>CONSTANTIUS&#39;FUND</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 536 2973 1351 3304">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 536 2973 1351 3304">
+     <span class='ocr_line' id='line_1_2' title="bbox 536 2973 1351 3164; baseline -0.002 -34"><span class='ocrx_word' id='word_1_2' title='bbox 536 2973 974 3156; x_wconf 49' lang='lat' dir='ltr'>EvmgelintZpuZffligyes</span> <span class='ocrx_word' id='word_1_3' title='bbox 987 3055 1167 3154; x_wconf 85' lang='lat' dir='ltr'>Sophocles</span> <span class='ocrx_word' id='word_1_4' title='bbox 1213 3078 1217 3087; x_wconf 64' lang='lat'><strong>⁴</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1269 3153 1274 3164; x_wconf 20' lang='grc' dir='ltr'>ἱ</span> <span class='ocrx_word' id='word_1_6' title='bbox 1349 3050 1351 3061; x_wconf 71' lang='lat'>&#39;</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 614 3169 1026 3304; baseline -0.005 -90"><span class='ocrx_word' id='word_1_7' title='bbox 614 3242 615 3245; x_wconf 8' lang='grc' dir='ltr'><strong>Ἴ</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 678 3171 748 3214; x_wconf 58' lang='lat' dir='ltr'>Tutor</span> <span class='ocrx_word' id='word_1_9' title='bbox 756 3169 1026 3304; x_wconf 40' lang='grc' dir='ltr'>ωξιὸιῖῗὸιέὂοῑω</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 647 3401 1056 3466">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 647 3401 1056 3466">
+     <span class='ocr_line' id='line_1_4' title="bbox 647 3401 1056 3466; baseline -0.005 -10"><span class='ocrx_word' id='word_1_10' title='bbox 647 3405 695 3456; x_wconf 85' lang='lat' dir='ltr'>For</span> <span class='ocrx_word' id='word_1_11' title='bbox 706 3401 796 3466; x_wconf 66' lang='lat' dir='ltr'>Greek,</span> <span class='ocrx_word' id='word_1_12' title='bbox 809 3403 890 3465; x_wconf 77' lang='lat' dir='ltr'>Latin,</span> <span class='ocrx_word' id='word_1_13' title='bbox 901 3401 953 3456; x_wconf 79' lang='lat' dir='ltr'>and</span> <span class='ocrx_word' id='word_1_14' title='bbox 963 3401 1056 3454; x_wconf 71' lang='lat' dir='ltr'>Arabic</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1738 5492">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1738 5492">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1738 5492; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 1738 5492; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
